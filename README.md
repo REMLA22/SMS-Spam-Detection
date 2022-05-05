@@ -9,7 +9,7 @@ The codebase was originally adapted from: https://github.com/rohan8594/SMS-Spam-
 a) Clone repo.
 
 ```
-$ git clone https://github.com/rohan8594/SMS-Spam-Detection.git
+$ git clone https://github.com/remla22/sms-spam-detection.git
 $ cd SMS-Spam-Detection
 ```
 
